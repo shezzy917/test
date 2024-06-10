@@ -1,0 +1,9 @@
+.cont{
+    background-color: beige;
+    padding: 1%;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgb(10, 10, 77);
+    border: none;
+    width: 20%;
+    height: fit-content;
+}
